@@ -60,6 +60,7 @@ a {
     position: fixed;
     top: 800px;
     right: 0px;
+    z-index: 2;
 }
 
 #re-top li {
